@@ -29,7 +29,7 @@
 Login with Admin
 ================
 """,
-    'depends': [],
+    'depends': ['auth_crypt'],
     'data': [
     ],
 }
